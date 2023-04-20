@@ -5,7 +5,7 @@ Any question, be free to contact me: xsun@lincoln.ac.uk, xuelongsun@hotmail.com
 
 # Desciption
 Use three parsimonious building blocks (i.e., 'copy-and-shift'; ring attractor; steering circuits) to model the highly complex insect navigation across sensory domains. 
-![](img/building_blocks.png 'building blocks of the model')
+![](building_blocks.png 'building blocks of the model')
 
 # Notes
 - To run simulations, see the Jyputer Notebook file: `simulation.ipynb`
